@@ -1,8 +1,6 @@
-# semana_python_django
-Curso  Treina Web - Semana Python+Django
+# Curso  Treina Web - Semana Python+Django
 
-[https://lp.treinaweb.com.br/python/](https://lp.treinaweb.com.br/python/)
-
+Course link: [https://lp.treinaweb.com.br/python/](https://lp.treinaweb.com.br/python/)
 ## Available Scripts
 
 In the project directory, you can run:
