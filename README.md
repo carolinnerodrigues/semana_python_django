@@ -1,4 +1,4 @@
-# Curso  Treina Web - Semana Python+Django
+# Treina Web Course - Python + Django Week
 
 Course link: [https://lp.treinaweb.com.br/python/](https://lp.treinaweb.com.br/python/)
 ## Available Scripts
